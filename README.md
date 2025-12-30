@@ -28,8 +28,8 @@ uv --version
 ## Open PowerShell in the project directory and run:
 
  
- ```uv venv
-.venv\Scripts\activate```
+ ```uv venv```
+```.venv\Scripts\activate```
 
 # Run the Agent (Server):
 ```uv run .```
