@@ -39,6 +39,6 @@ http://localhost:9999
 # Run the test_client
 Open a new PowerShell window and run:
 
-uv run test_client.py
+'''uv run test_client.py'''
 
 You will see the client communicating with the agent in the terminal.
