@@ -23,6 +23,7 @@ Verify installations:
 python --version
 uv --version
 
+---
 
 # Create Virtual Environment and Install Dependencies
 ## Open PowerShell in the project directory and run:
