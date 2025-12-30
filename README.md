@@ -27,7 +27,9 @@ uv --version
 # Create Virtual Environment and Install Dependencies
 ## Open PowerShell in the project directory and run:
 
-uv venv
+ 
+ 
+ uv venv
 .venv\Scripts\activate
 
 #Run the Agent (Server)
