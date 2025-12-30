@@ -19,20 +19,20 @@ Install uv from:
 https://docs.astral.sh/uv/getting-started/installation/
 
 Verify installations:
-   powershell
+```powershell
 python --version
-uv --version
+uv --version```
 
 
 # Create Virtual Environment and Install Dependencies
 ## Open PowerShell in the project directory and run:
 
  
- uv venv
-.venv\Scripts\activate
+ ```uv venv
+.venv\Scripts\activate```
 
 # Run the Agent (Server):
-uv run .
+```uv run .```
 The agent will start running at:
 http://localhost:9999
 
