@@ -28,11 +28,10 @@ uv --version
 ## Open PowerShell in the project directory and run:
 
  
- 
  uv venv
 .venv\Scripts\activate
 
-#Run the Agent (Server)
+# Run the Agent (Server):
 uv run .
 The agent will start running at:
 http://localhost:9999
