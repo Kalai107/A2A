@@ -19,9 +19,9 @@ Install uv from:
 https://docs.astral.sh/uv/getting-started/installation/
 
 Verify installations:
-```powershell
+powershell
 python --version
-uv --version```
+uv --version
 
 
 # Create Virtual Environment and Install Dependencies
