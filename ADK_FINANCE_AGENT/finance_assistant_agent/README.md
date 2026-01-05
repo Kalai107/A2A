@@ -29,16 +29,30 @@ uv venv
 ```
 ### Install all dependencies
 
+```
+
 python -m pip install -r requirements.txt
+
+```
 
 ### Environment Variables
 
+```
+
 GOOGLE_API_KEY=your_google_api_key_here
+
+```
 
 ### Run the ADK Web Interface
 
+```
 adk web
+```
 
 ### Open your browser and visit:
 
+```
+
 http://127.0.0.1:8000
+
+```
