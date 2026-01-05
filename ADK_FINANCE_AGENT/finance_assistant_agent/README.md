@@ -21,16 +21,24 @@ The agent answers basic finance-related questions through a web interface.
 
 ## ⚙️ Setup Instructions (Windows)
 
-### 1️⃣ Create a virtual environment
+### Create a virtual environment
 ```powershell
 uv venv
 
 .venv\Scripts\activate
+```
+### Install all dependencies
 
 python -m pip install -r requirements.txt
 
+### Environment Variables
+
 GOOGLE_API_KEY=your_google_api_key_here
 
+### Run the ADK Web Interface
+
 adk web
+
+### Open your browser and visit:
 
 http://127.0.0.1:8000
